@@ -1,0 +1,37 @@
+{
+    "name": "AI سوريا",
+    "short_name": "AI سوريا",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0a1629",
+    "theme_color": "#0a1629",
+    "description": "مساعدك الذكي بالعربية — AI سوريا",
+    "dir": "rtl",
+    "lang": "ar",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
